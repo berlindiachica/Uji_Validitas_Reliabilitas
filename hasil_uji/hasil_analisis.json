@@ -1,0 +1,477 @@
+{
+  "semua_kelas": {
+    "3 TI E": 39,
+    "3 TI C": 35,
+    "3 TI F": 30,
+    "3 TI D": 38,
+    "3 TI A": 39
+  },
+  "n_seluruh": 181,
+  "n": 39,
+  "df": 37,
+  "r_tabel": 0.3160319281917299,
+  "jumlah_dimensi": 5,
+  "jumlah_butir": 29,
+  "jumlah_dikeluarkan": 0,
+  "dimensi": [
+    {
+      "nama": "Penggunaan AI pada tugas atau projek kuliah",
+      "nomor": 1,
+      "jumlah_butir": 7,
+      "alpha": 0.3699777613046701,
+      "kategori": "Tidak reliabel",
+      "butir": [
+        {
+          "kode": "D1B1",
+          "pertanyaan": "Saya menggunakan platform AI hampir setiap kali mendapatkan tugas akademik.",
+          "r_hitung": 0.5250642415249376,
+          "p_value": 0.0005993123792268744,
+          "corrected_r": 0.27748350521981874,
+          "alpha_jika_dihapus": 0.27500472321934627,
+          "status": "Valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D1B2",
+          "pertanyaan": "Saya menggunakan AI untuk mencari solusi atas permasalahan atau soal perkuliahan.",
+          "r_hitung": 0.2694213834531476,
+          "p_value": 0.09719157289575239,
+          "corrected_r": 0.10490369244690682,
+          "alpha_jika_dihapus": 0.362181818181818,
+          "status": "Tidak valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D1B3",
+          "pertanyaan": "Saya menggunakan AI untuk mencari ide atau inspirasi dalam mengerjakan tugas./projek",
+          "r_hitung": 0.6430897181518103,
+          "p_value": 1.0094653736106632e-05,
+          "corrected_r": 0.3794926455133008,
+          "alpha_jika_dihapus": 0.19346461804804105,
+          "status": "Valid",
+          "corrected_ge_030": true,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D1B4",
+          "pertanyaan": "Saya merasa kesulitan memulai mengerjakan tugas tanpa bantuan AI.",
+          "r_hitung": 0.6692281179482907,
+          "p_value": 3.1939107191134135e-06,
+          "corrected_r": 0.39677946081983106,
+          "alpha_jika_dihapus": 0.17131221719457032,
+          "status": "Valid",
+          "corrected_ge_030": true,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D1B5",
+          "pertanyaan": "Saya merasa kurang yakin dengan hasil tugas apabila tidak menggunakan AI.",
+          "r_hitung": 0.5148931021077547,
+          "p_value": 0.0007968725809823407,
+          "corrected_r": 0.12618314005101833,
+          "alpha_jika_dihapus": 0.36736152471709355,
+          "status": "Valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D1B6",
+          "pertanyaan": "Saya percaya bahwa AI dapat memberikan informasi yang membantu penyelesaian tugas.",
+          "r_hitung": 0.45532570342213374,
+          "p_value": 0.0035840897632007677,
+          "corrected_r": 0.1390299506993276,
+          "alpha_jika_dihapus": 0.34820249449743185,
+          "status": "Valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D1B7",
+          "pertanyaan": "Saya memeriksa kembali kebenaran informasi yang diberikan AI sebelum menggunakannya.",
+          "r_hitung": 0.015854997673990956,
+          "p_value": 0.9236803233276237,
+          "corrected_r": -0.24741333826077924,
+          "alpha_jika_dihapus": 0.5133788110817207,
+          "status": "Tidak valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": true
+        }
+      ],
+      "skala_counts": [
+        10,
+        31,
+        31,
+        106,
+        95
+      ],
+      "mean": 3.8974358974358974,
+      "std_dimensi": 3.017045591727792,
+      "std_rerata": 0.4310065131039702,
+      "skewness": -0.42477512710541004,
+      "kurtosis": 1.6124334087791583,
+      "n": 39,
+      "min_total": 19,
+      "max_total": 34,
+      "avg_total": 27.28205128205128,
+      "n_valid": 5,
+      "n_corrected": 2,
+      "grafik": "grafik_dimensi_1.png"
+    },
+    {
+      "nama": "Aspek Psikologis penggunaan AI pada tugas atau projek kuliah",
+      "nomor": 2,
+      "jumlah_butir": 7,
+      "alpha": 0.3745732689210949,
+      "kategori": "Tidak reliabel",
+      "butir": [
+        {
+          "kode": "D2B1",
+          "pertanyaan": "Saya merasa perlu menggunakan AI setiap kali mendapatkan tugas atau proyek kuliah.",
+          "r_hitung": 0.5383744679544128,
+          "p_value": 0.00040715265976368377,
+          "corrected_r": 0.22796752558335417,
+          "alpha_jika_dihapus": 0.2987230749387336,
+          "status": "Valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D2B2",
+          "pertanyaan": "aya merasa kesulitan menyelesaikan tugas kuliah apabila tidak menggunakan bantuan AI.",
+          "r_hitung": 0.6447826086956522,
+          "p_value": 9.400382126348438e-06,
+          "corrected_r": 0.3773393893674231,
+          "alpha_jika_dihapus": 0.19980144660331883,
+          "status": "Valid",
+          "corrected_ge_030": true,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D2B3",
+          "pertanyaan": "Saya cenderung mengikuti saran atau jawaban AI tanpa banyak mempertimbangkan alternatif lainnya (Non-AI).",
+          "r_hitung": 0.49518433967108744,
+          "p_value": 0.0013505261561187428,
+          "corrected_r": 0.2126234779056087,
+          "alpha_jika_dihapus": 0.3116597408946469,
+          "status": "Valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D2B4",
+          "pertanyaan": "Saya lebih sering menggunakan pemikiran atau jawaban yang dihasilkan AI daripada mengembangkan pemikiran sendiri.",
+          "r_hitung": 0.5582737570698371,
+          "p_value": 0.00022149660493942915,
+          "corrected_r": 0.3255891759037871,
+          "alpha_jika_dihapus": 0.25764838750156877,
+          "status": "Valid",
+          "corrected_ge_030": true,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D2B5",
+          "pertanyaan": "Saya merasa cemas ketika tidak dapat mengakses AI saat sedang mengerjakan tugas kuliah.",
+          "r_hitung": 0.6828815028349525,
+          "p_value": 1.6718148442142624e-06,
+          "corrected_r": 0.4408551495869415,
+          "alpha_jika_dihapus": 0.16032672112018673,
+          "status": "Valid",
+          "corrected_ge_030": true,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D2B6",
+          "pertanyaan": "Penggunaan AI membuat saya lebih tertarik untuk mempelajari materi perkuliahan.",
+          "r_hitung": 0.1292425708329473,
+          "p_value": 0.4329481410325307,
+          "corrected_r": -0.1906543623212592,
+          "alpha_jika_dihapus": 0.5233595303475052,
+          "status": "Tidak valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": true
+        },
+        {
+          "kode": "D2B7",
+          "pertanyaan": "Saya tetap merasa yakin terhadap kemampuan diri sendiri pada materi kuliah meskipun menggunakan bantuan AI dalam menyelesaikan tugas kuliah.",
+          "r_hitung": 0.12711051391977027,
+          "p_value": 0.4406394916638358,
+          "corrected_r": -0.14614238922720324,
+          "alpha_jika_dihapus": 0.4789620374819798,
+          "status": "Tidak valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": true
+        }
+      ],
+      "skala_counts": [
+        28,
+        77,
+        52,
+        63,
+        53
+      ],
+      "mean": 3.131868131868132,
+      "std_dimensi": 3.737326763347351,
+      "std_rerata": 0.533903823335336,
+      "skewness": 0.24841649922812428,
+      "kurtosis": -0.7524317966359542,
+      "n": 39,
+      "min_total": 15,
+      "max_total": 30,
+      "avg_total": 21.923076923076923,
+      "n_valid": 5,
+      "n_corrected": 3,
+      "grafik": "grafik_dimensi_2.png"
+    },
+    {
+      "nama": "Kebiasaan penggunaan teknologi digital",
+      "nomor": 3,
+      "jumlah_butir": 6,
+      "alpha": 0.47763811750949997,
+      "kategori": "Tidak reliabel",
+      "butir": [
+        {
+          "kode": "D3B1",
+          "pertanyaan": "Saya sering mengerjakan tugas kuliah sambil melakukan aktivitas lain, seperti membuka media sosial atau menonton video",
+          "r_hitung": 0.5844435632015721,
+          "p_value": 9.3571899172855e-05,
+          "corrected_r": 0.268397960333803,
+          "alpha_jika_dihapus": 0.415751167261741,
+          "status": "Valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D3B2",
+          "pertanyaan": "Saya sering memeriksa notifikasi smartphone meskipun sedang mengerjakan tugas kuliah.",
+          "r_hitung": 0.5941545185469902,
+          "p_value": 6.667634573273606e-05,
+          "corrected_r": 0.29094411783649793,
+          "alpha_jika_dihapus": 0.4015026192445545,
+          "status": "Valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D3B3",
+          "pertanyaan": "aya sering menunda pengerjaan tugas karena lebih tertarik menggunakan gadget untuk kegiatan lain yang tidak berhubungan dengan tugas yang sedang saya kerjakan",
+          "r_hitung": 0.5354086622286418,
+          "p_value": 0.0004443961092957477,
+          "corrected_r": 0.30149603725612373,
+          "alpha_jika_dihapus": 0.40574941015770516,
+          "status": "Valid",
+          "corrected_ge_030": true,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D3B4",
+          "pertanyaan": "Saya merasa menggunakan AI tidak membutuhkan tingkat konsentrasi yang tinggi, sehingga dapat dikerjakan bersamaan dengan kegiatan yang lain.",
+          "r_hitung": 0.6486320724387918,
+          "p_value": 7.981270067034095e-06,
+          "corrected_r": 0.35547278938256693,
+          "alpha_jika_dihapus": 0.3583761939750184,
+          "status": "Valid",
+          "corrected_ge_030": true,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D3B5",
+          "pertanyaan": "Saya tidak mengkhawatirkan hasil yang diberikan AI",
+          "r_hitung": 0.2846411712465417,
+          "p_value": 0.07904015654293814,
+          "corrected_r": -0.01267046610964852,
+          "alpha_jika_dihapus": 0.551123714618891,
+          "status": "Tidak valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": true
+        },
+        {
+          "kode": "D3B6",
+          "pertanyaan": "Saya jarang memeriksa kembali hasil dari AI karena sudah percaya terhadap ketepatan jawabannya.",
+          "r_hitung": 0.48792005233299374,
+          "p_value": 0.0016276689256286344,
+          "corrected_r": 0.2634620443464407,
+          "alpha_jika_dihapus": 0.4260383196477449,
+          "status": "Valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": false
+        }
+      ],
+      "skala_counts": [
+        44,
+        71,
+        43,
+        44,
+        32
+      ],
+      "mean": 2.782051282051282,
+      "std_dimensi": 3.72158600990892,
+      "std_rerata": 0.62026433498482,
+      "skewness": -0.25456241050262646,
+      "kurtosis": -0.21237087115325393,
+      "n": 39,
+      "min_total": 8,
+      "max_total": 24,
+      "avg_total": 16.692307692307693,
+      "n_valid": 5,
+      "n_corrected": 2,
+      "grafik": "grafik_dimensi_3.png"
+    },
+    {
+      "nama": "Prokrastinasi akademik.",
+      "nomor": 4,
+      "jumlah_butir": 4,
+      "alpha": 0.8634433191767397,
+      "kategori": "Baik",
+      "butir": [
+        {
+          "kode": "D4B1",
+          "pertanyaan": "Saya cenderung menunggu hingga mendekati deadline untuk mulai mengerjakan tugas.",
+          "r_hitung": 0.8944286948765198,
+          "p_value": 1.696536546175753e-14,
+          "corrected_r": 0.799298555026325,
+          "alpha_jika_dihapus": 0.7886005014009735,
+          "status": "Valid",
+          "corrected_ge_030": true,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D4B2",
+          "pertanyaan": "Saya sering menunda pengerjaan tugas karena merasa dapat dikerjakan dengan mudah dan cepat dengan menggunakan AI",
+          "r_hitung": 0.7303273941692859,
+          "p_value": 1.312107588155981e-07,
+          "corrected_r": 0.5495243113280645,
+          "alpha_jika_dihapus": 0.8864386072083081,
+          "status": "Valid",
+          "corrected_ge_030": true,
+          "alpha_meningkat_jika_dihapus": true
+        },
+        {
+          "kode": "D4B3",
+          "pertanyaan": "Saya sering menyelesaikan tugas kuliah dalam waktu yang sangat dekat dengan batas pengumpulan.",
+          "r_hitung": 0.9169987750493613,
+          "p_value": 2.410016748899272e-16,
+          "corrected_r": 0.8533972972080682,
+          "alpha_jika_dihapus": 0.775732217573222,
+          "status": "Valid",
+          "corrected_ge_030": true,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D4B4",
+          "pertanyaan": "Saya sering mengerjakan beberapa tugas sekaligus karena sebelumnya menunda pengerjaannya.",
+          "r_hitung": 0.8433062129249923,
+          "p_value": 1.6088463054090873e-11,
+          "corrected_r": 0.6852392564782133,
+          "alpha_jika_dihapus": 0.8432578371081448,
+          "status": "Valid",
+          "corrected_ge_030": true,
+          "alpha_meningkat_jika_dihapus": false
+        }
+      ],
+      "skala_counts": [
+        22,
+        56,
+        31,
+        31,
+        16
+      ],
+      "mean": 2.7628205128205128,
+      "std_dimensi": 4.06492518186289,
+      "std_rerata": 1.0162312954657224,
+      "skewness": 0.2359707403535735,
+      "kurtosis": -0.5529066807685981,
+      "n": 39,
+      "min_total": 4,
+      "max_total": 19,
+      "avg_total": 11.051282051282051,
+      "n_valid": 4,
+      "n_corrected": 4,
+      "grafik": "grafik_dimensi_4.png"
+    },
+    {
+      "nama": "Rsspon emosional",
+      "nomor": 5,
+      "jumlah_butir": 5,
+      "alpha": 0.48929663608562685,
+      "kategori": "Tidak reliabel",
+      "butir": [
+        {
+          "kode": "D5B1",
+          "pertanyaan": "Saya merasa tertekan ketika harus menyelesaikan tugas dalam waktu singkat akibat menunda pengerjaannya.",
+          "r_hitung": 0.6051149250946941,
+          "p_value": 4.48809907539135e-05,
+          "corrected_r": 0.30885197332121767,
+          "alpha_jika_dihapus": 0.40386405959031624,
+          "status": "Valid",
+          "corrected_ge_030": true,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D5B2",
+          "pertanyaan": "Saya merasa panik ketika beberapa tugas yang saya tunda memiliki batas waktu pengumpulan yang berdekatan.",
+          "r_hitung": 0.7002669835853376,
+          "p_value": 6.964292877603806e-07,
+          "corrected_r": 0.45251860552582057,
+          "alpha_jika_dihapus": 0.3048927912451487,
+          "status": "Valid",
+          "corrected_ge_030": true,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D5B3",
+          "pertanyaan": "Saya merasa kurang puas terhadap hasil tugas yang dikerjakan karena terburu-buru mendekati deadline.",
+          "r_hitung": 0.46744191210821145,
+          "p_value": 0.002696579193608329,
+          "corrected_r": 0.11069394399935306,
+          "alpha_jika_dihapus": 0.5372088229231086,
+          "status": "Valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": true
+        },
+        {
+          "kode": "D5B4",
+          "pertanyaan": "Saya merasa lega setelah berhasil mengumpulkan tugas meskipun pengerjaannya dilakukan AI saat mendekati deadline.",
+          "r_hitung": 0.563117113470806,
+          "p_value": 0.0001898718427866831,
+          "corrected_r": 0.23465056435603188,
+          "alpha_jika_dihapus": 0.4545249379372603,
+          "status": "Valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": false
+        },
+        {
+          "kode": "D5B5",
+          "pertanyaan": "Saya merasa menyesal karena hasil tugas mungkin bisa lebih baik apabila dikerjakan lebih awal.",
+          "r_hitung": 0.5420791612339185,
+          "p_value": 0.00036456739597962506,
+          "corrected_r": 0.24980819484295708,
+          "alpha_jika_dihapus": 0.44328948080775243,
+          "status": "Valid",
+          "corrected_ge_030": false,
+          "alpha_meningkat_jika_dihapus": false
+        }
+      ],
+      "skala_counts": [
+        15,
+        11,
+        25,
+        76,
+        68
+      ],
+      "mean": 3.876923076923077,
+      "std_dimensi": 3.3215039762083096,
+      "std_rerata": 0.664300795241662,
+      "skewness": -1.523727275376017,
+      "kurtosis": 3.947518458952171,
+      "n": 39,
+      "min_total": 7,
+      "max_total": 25,
+      "avg_total": 19.384615384615383,
+      "n_valid": 5,
+      "n_corrected": 2,
+      "grafik": "grafik_dimensi_5.png"
+    }
+  ]
+}
